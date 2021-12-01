@@ -7,6 +7,5 @@ A passionate Freelance Web Developer and Designer <a href="https://www.kapansa.d
 
 - 📫  Say hi **samuelkapansa@gmail.com**
 
-## My stats 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapansa&theme=ayu-mirage&border_radius=3&layout=compact&langs_count=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapansa&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=10)
