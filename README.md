@@ -9,4 +9,4 @@ A passionate Freelance Web Developer and Designer <a href="https://www.kapansa.d
 
 ## My stats 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapansa&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapansa&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=10)
