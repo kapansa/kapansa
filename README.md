@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Samuel Kapansa</h1>
-A passionate Web Developer and Designer <a href="https://kapansa.github.io/Portfolio-website-v2/">kapansa.dev</a>
+A passionate Web Developer and Designer <a href="https://kapansa.github.io/Portfolio-website-v2/">https://kapansa.github.io/Portfolio-website-v2/</a>
 
 - 📝  You can check out some of my design work on  [https://www.behance.net/samuelkapansa](https://www.behance.net/samuelkapansa)
 
