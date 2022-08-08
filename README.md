@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Samuel Kapansa</h1>
-A passionate Web Developer and Designer <a href="https://kapansa.github.io/Portfolio-website-v2/">https://kapansa.github.io/Portfolio-website-v2/</a>
+A passionate Web Developer and UI/UX Designer <a href="https://samuelkapansa.netlify.app/">https://samuelkapansa.netlify.app/</a>
 
 - 📝  You can check out some of my design work on  [https://www.behance.net/samuelkapansa](https://www.behance.net/samuelkapansa)
 
@@ -7,5 +7,5 @@ A passionate Web Developer and Designer <a href="https://kapansa.github.io/Portf
 
 - 📫  Say hi **samuelkapansa@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapansa&theme=ayu-mirage&border_radius=3&layout=compact&langs_count=10)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapansa&theme=ayu-mirage&border_radius=3&layout=compact&langs_count=10) -->
 
