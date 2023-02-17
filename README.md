@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Samuel Kapansa</h1>
-A passionate Web Developer and UI/UX Designer <a href="https://samuelkapansa.netlify.app/">https://samuelkapansa.netlify.app/</a>
+A passionate Web Developer and UI/UX Designer <a href="https://samuelkapansa.netlify.app/">https://samuelkapansa.tech/</a>
 
 - 📝  You can check out some of my design work on  [https://www.behance.net/samuelkapansa](https://www.behance.net/samuelkapansa)
 
