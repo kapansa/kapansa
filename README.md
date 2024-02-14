@@ -14,7 +14,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________
 ### Technical Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,git,github,react,nextjs,reactnative,nodejs,express,mongodb,firebase,figma,&theme=light)](https://github.com/coderaishya)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,git,github,react,nextjs,nodejs,express,mongodb,firebase,figma,&theme=light)](https://github.com/coderaishya)
 
 _________________________________________________________________________________________________________________________________________________________________________
  ### Connect with me:
@@ -23,6 +23,7 @@ ________________________________________________________________________________
 I have a passion for sharing my expertise in web development, UI/UX design, and mobile app development through various channels, including my Facebook and YouTube channels. I produce educational videos and other content aimed at providing valuable insights and practical tips to my audience. Additionally, I offer online mentorship classes tailored to individuals who are new to the field of technology and programming. My goal is to empower others with the knowledge and skills needed to succeed in the ever-evolving tech industry.
 
 Facebook : https://web.facebook.com/profile.php?id=100080244010749
+
 YouTube Channel: https://www.youtube.com/@kingsamuelkapansa8477
 
 Also you can mail me on samuelkapansa@gmail.com for Collaborations, web and mobile app projects, works, trainings or queries
