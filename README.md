@@ -19,7 +19,7 @@ ________________________________________________________________________________
  ### Connect with me:
 
 
-I have a passion for sharing my expertise in web development, UI/UX design, and mobile app development through various channels, including my Facebook and YouTube channels. I produce educational videos and other content aimed at providing valuable insights and practical tips to my audience. Additionally, I offer online mentorship classes tailored to individuals who are new to the field of technology and programming. My goal is to empower others with the knowledge and skills needed to succeed in the ever-evolving tech industry.
+I have a passion for sharing my expertise in web development, UI/UX design, and mobile app development through various channels, including my Facebook and YouTube channel. I produce educational videos and other content aimed at providing valuable insights and practical tips to my audience. Additionally, I offer online mentorship classes tailored to individuals who are new to the field of technology and programming. My goal is to empower others with the knowledge and skills needed to succeed in the ever-evolving tech industry.
 
 Facebook : https://web.facebook.com/profile.php?id=100080244010749
 
