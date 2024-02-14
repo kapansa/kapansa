@@ -1,7 +1,7 @@
 ### Hi there  👋,  I'm Samuel Kapansa :smiley:
 _________________________________________________________________________________________________________________________________________________________________________
 
-- Compassionate Software Developer, UI/UX Designer and Trainer 
+- A Compassionate Software Developer, UI/UX Designer and Trainer 
 - 6+ yrs of Experience
 - BSC Student in Computer Science
 - Expertise in HTML5, CSS3, Javascript (ES6), Javascript (ES6) , Bootstrap , Tailwind CSS, Flexbox , Version Control (Git) , Github , React.js , Next.js, React Native (Mobile App) , Webflow , Node.js , Express.js, Firebase , MongoDB, Adobe PhotoShop , Figma
