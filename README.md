@@ -13,7 +13,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________
 ### Technical Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,git,github,react,nextjs,nodejs,express,mongodb,firebase,figma,&theme=light)](https://github.com/coderaishya)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,git,github,react,nextjs,nodejs,express,mongodb,firebase,figma,vscode,webflow,xd,netlify&theme=light)](https://github.com/coderaishya)
 
 _________________________________________________________________________________________________________________________________________________________________________
  ### Connect with me:
