@@ -1,11 +1,29 @@
-<h1 align="center">Hi There👋, I'm Samuel Kapansa</h1>
-A passionate Web Developer and UI/UX Designer <a href="https://samuelkapansa.netlify.app/">https://samuelkapansa.tech/</a>
+### Hi there  👋,  I'm Samuel Kapansa :smiley:
+_________________________________________________________________________________________________________________________________________________________________________
 
-- 📝  You can check out some of my design work on  [https://www.behance.net/samuelkapansa](https://www.behance.net/samuelkapansa)
+- Compassionate Software Developer, UI/UX Designer and Trainer 
+- 6+ yrs of Experience
+- BSC Student in Computer Science
+- Expertise in HTML5, CSS3, Javascript (ES6), Javascript (ES6) , Bootstrap , Tailwind CSS, Flexbox , Version Control (Git) , Github , React.js , Next.js, React Native (Mobile App) , Webflow , Node.js , Express.js, Firebase , MongoDB, Adobe PhotoShop , Figma
+- Good in UI/UX designing skills (Photoshop,Canva,Figma)
+- Worked on Web and Mobile Applications.
+- I teach and Mentor tech Enthusiast in Web and Mobile app Development.
 
-- I also enjoy writing articles on some of my interests [https://kapansa.medium.com/](https://kapansa.medium.com/) 
 
-- 📫  Say hi **samuelkapansa@gmail.com**
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapansa&theme=ayu-mirage&border_radius=3&layout=compact&langs_count=10) -->
+_________________________________________________________________________________________________________________________________________________________________________
+### Technical Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,git,github,react,nextjs,reactnative,nodejs,express,mongodb,firebase,figma,&theme=light)](https://github.com/coderaishya)
+
+_________________________________________________________________________________________________________________________________________________________________________
+ ### Connect with me:
+
+
+I have a passion for sharing my expertise in web development, UI/UX design, and mobile app development through various channels, including my Facebook and YouTube channels. I produce educational videos and other content aimed at providing valuable insights and practical tips to my audience. Additionally, I offer online mentorship classes tailored to individuals who are new to the field of technology and programming. My goal is to empower others with the knowledge and skills needed to succeed in the ever-evolving tech industry.
+
+Facebook : https://web.facebook.com/profile.php?id=100080244010749
+YouTube Channel: https://www.youtube.com/@kingsamuelkapansa8477
+
+Also you can mail me on samuelkapansa@gmail.com for Collaborations, web and mobile app projects, works, trainings or queries
 
