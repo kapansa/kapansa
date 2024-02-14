@@ -25,5 +25,5 @@ Facebook : https://web.facebook.com/profile.php?id=100080244010749
 
 YouTube Channel: https://www.youtube.com/@kingsamuelkapansa8477
 
-Also you can mail me on samuelkapansa@gmail.com for Collaborations, web and mobile app projects, works, trainings or queries
+Also you can mail me on samuelkapansa.tech@gmail.com for Collaborations, web and mobile app projects, works, trainings or queries
 
